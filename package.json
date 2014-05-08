@@ -1,0 +1,24 @@
+{
+  "name": "ECMAScript6",
+  "version": "1.0.1",
+  "description": "ECMAScript6",
+  "author": "xdf",
+  "email": "xudafeng[at]126.com",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xudafeng/ECMAScript6.git"
+  },
+  "keywords": [
+    "ECMAScript6 harmony"
+  ],
+  "bugs": {
+    "url": "https://github.com/xudafeng/ECMAScript6/issues"
+  },
+  "homepage": "https://xudafeng.github.com/ECMAScript6",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "license": "MIT"
+}
