@@ -12,7 +12,7 @@
   },
   "dependencies": {
   },
-  "keywords": ["ecmascript6"],
+  "keywords": ["ecmascript6", "es6", "harmony"],
   "devDependencies": {
     "mocha": "*"
   },
