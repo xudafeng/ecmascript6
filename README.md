@@ -1,5 +1,4 @@
 ecmascript6
-===
 
 ## Installment
 
