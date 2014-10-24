@@ -1,7 +1,6 @@
 TESTS = $(shell find test -type f -name "*.test.js")
 REPORTER = spec
 TIMEOUT = 10000
-MOCHA_OPTS =
 
 all: test
 
