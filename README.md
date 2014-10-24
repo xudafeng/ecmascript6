@@ -11,7 +11,7 @@ ecmascript6
 [npm-url]: https://npmjs.org/package/ecmascript6
 [travis-image]: https://img.shields.io/travis/xudafeng/ECMAScript6.svg?style=flat-square
 [travis-url]: https://travis-ci.org/xudafeng/ECMAScript6
-[coveralls-image]: https://img.shields.io/coveralls/ECMAScript6/ecmascript6.svg?style=flat-square
+[coveralls-image]: https://img.shields.io/coveralls/xudafeng/ECMAScript6.svg?style=flat-square
 [coveralls-url]: https://coveralls.io/r/xudafeng/ECMAScript6?branch=master
 [node-image]: https://img.shields.io/badge/node.js-%3E=_0.10-green.svg?style=flat-square
 [node-url]: http://nodejs.org/download/
