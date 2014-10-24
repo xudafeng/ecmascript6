@@ -11,9 +11,14 @@
  *
  * ================================================================ */
 
-"use strict";
+'use strict';
 
-var ecmascript6 = require('../');
+var ecmascript6 = require('..');
 
-describe('', function(){
+describe('/lib/ecmascript6.js', function() {
+  describe('main', function() {
+    it('should be a boolean', function() {
+      ecmascript6.should.be.Boolean;
+    });
+  });
 });

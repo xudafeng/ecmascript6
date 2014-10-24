@@ -1,7 +1,7 @@
 {
   "name": "ecmascript6",
-  "version": "0.0.2",
-  "description": "ecmascript6",
+  "version": "0.1.0",
+  "description": "ecmascript6 detector",
   "bin": {
     "ecmascript6": "./bin/ecmascript6"
   },
@@ -10,14 +10,16 @@
     "type": "git",
     "url": "git://github.com/xudafeng/ecmascript6.git"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "keywords": ["ecmascript6", "es6", "harmony"],
   "devDependencies": {
-    "mocha": "*"
+    "mocha": "*",
+    "istanbul": "*",
+    "should": "~4.0.4"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "make test",
+    "travis": "make travis"
   },
   "homepage": "https://github.com/xudafeng/ecmascript6",
   "author": "xudafeng",
